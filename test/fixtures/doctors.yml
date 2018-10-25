@@ -3,11 +3,11 @@
 one:
   first_name: MyString
   last_name: MyString
-  speciality: MyString
-  postal_code: 1
+  speciality: one
+  city: one
 
 two:
   first_name: MyString
   last_name: MyString
-  speciality: MyString
-  postal_code: 1
+  speciality: two
+  city: two

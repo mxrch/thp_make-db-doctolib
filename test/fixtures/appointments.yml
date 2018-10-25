@@ -1,11 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  date: 2018-10-25 13:28:21
   patient: one
   doctor: one
+  city: one
+  date: 2018-10-25 16:45:57
 
 two:
-  date: 2018-10-25 13:28:21
   patient: two
   doctor: two
+  city: two
+  date: 2018-10-25 16:45:57
